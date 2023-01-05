@@ -1,0 +1,11 @@
+.header__lang-link {
+    padding-top: 18px;
+    padding-bottom: 6px;
+    padding-left: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+   }
+  

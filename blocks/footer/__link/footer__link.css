@@ -1,0 +1,10 @@
+.footer__link {
+    margin: 0;
+    height: 18px;
+    padding-right: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .footer__link:hover {
+    text-decoration: none;
+  }

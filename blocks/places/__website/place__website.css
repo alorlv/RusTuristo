@@ -1,0 +1,11 @@
+.place__website {
+    margin: 0;
+    align-self: flex-end;
+    max-width: 456px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    vertical-align: bottom;
+    justify-self: baseline;
+  }

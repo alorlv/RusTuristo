@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    width: 1184px;
+    height: 52px;
+    position: relative;
+    overflow: hidden;
+    padding-top: 28px;
+    padding-bottom: 56px;
+  }
