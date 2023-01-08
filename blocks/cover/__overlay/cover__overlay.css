@@ -8,6 +8,6 @@
   left: 0;
   top: 0;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   transition: opacity 0.6s;
 }

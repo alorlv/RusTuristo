@@ -9,6 +9,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-size: cover;
 }
 .cover:hover .cover__overlay {
   opacity: 0.8;
