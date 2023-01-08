@@ -4,11 +4,6 @@
 }
 @media screen and (max-width: 660px) {
 .place__website{
-  margin: 0;
   width: calc(100vw - 32px);
   }
-}
-@media only screen and (max-width: 320px) {
- margin: 0;
-
 }

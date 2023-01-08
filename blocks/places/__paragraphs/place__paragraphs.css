@@ -2,13 +2,13 @@
   margin: 0;
   max-width: 484px;
 }
+@media screen and (max-width: 767px) {
+.place__paragraphs {
+  padding: 0 16px;
+  }
+}
 @media screen and (max-width: 660px) {
 .place__main-text {
   max-width: calc(100vw - 32px);
-}
-}
-@media screen and (max-width: 767px) {
-  .place__paragraphs {
-    padding: 0 16px;
   }
 }
