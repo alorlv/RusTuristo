@@ -8,3 +8,4 @@
             - GitHub Pages для хостинга
             - Grid Layout
             - Media queries
+Ссылка на проект в GitHub: https://github.com/alorlv/RusTuristo

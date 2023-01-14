@@ -1,7 +1,7 @@
 .cover {
   margin: 0 auto 92px;
   position: relative;
-  z-index: 1;
+  z-index: 2;
   max-width: 1184px;
   min-height: 740px;
   display: flex;
@@ -9,9 +9,6 @@
   justify-content: center;
   align-items: center;
   background-size: cover;
-}
-.cover:hover {
-  opacity: 0.8;
 }
 @media screen and (max-width: 1185px) {
   .cover {
