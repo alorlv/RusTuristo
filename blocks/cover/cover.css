@@ -3,17 +3,11 @@
   position: relative;
   z-index: 2;
   max-width: 1184px;
-  min-height: 740px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   background-size: cover;
-}
-@media screen and (max-width: 1185px) {
-  .cover {
-    min-height: calc(100vw * 740 / 1184);
-  }
 }
 @media screen and (max-width: 850px) {
   .cover {
