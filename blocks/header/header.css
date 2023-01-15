@@ -5,21 +5,21 @@
   justify-content: space-between;
   align-items: flex-end;
   max-width: 1184px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 @media screen and (max-width: 1025px) {
   .header {
-  padding: 28px 48px 48px;
- }
+    padding: 28px 48px 48px;
+  }
 }
 @media screen and (max-width: 768px) {
   .header {
-  padding: 28px 24px 48px;
+    padding: 28px 24px 48px;
   }
 }
 @media screen and (max-width: 640px) {
   .header {
-  min-height: 42px;
-  padding: 16px 16px 48px;
+    min-height: 42px;
+    padding: 16px 16px 48px;
   }
 }

@@ -1,26 +1,26 @@
 .intro {
   padding: 92px 0;
-  color: #FFFFFF;
+  color: #ffffff;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
   flex-direction: column;
   max-width: 984px;
-  }
-@media screen and (max-width: 1024px){
-.intro{
-  max-width: 928px;
+}
+@media screen and (max-width: 1024px) {
+  .intro {
+    max-width: 928px;
   }
 }
-@media screen and (max-width: 948px){
-.intro{
-  padding: 88px 24px;
+@media screen and (max-width: 948px) {
+  .intro {
+    padding: 88px 24px;
   }
 }
 @media screen and (max-width: 769px) {
-.intro {
-  max-width: 720px;
-  padding: 88px 16px;
+  .intro {
+    max-width: 720px;
+    padding: 88px 16px;
   }
 }
 @media screen and (max-width: 320px) {
@@ -28,5 +28,5 @@
     max-width: 720px;
     padding-top: 64px;
     padding-bottom: 64px;
-    }
   }
+}

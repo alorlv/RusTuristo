@@ -5,9 +5,9 @@
   padding: 0;
 }
 @media screen and (max-width: 720px) {
-.footer__links {
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: space-between;
+  .footer__links {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: space-between;
   }
 }
